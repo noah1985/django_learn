@@ -1,5 +1,10 @@
 env
-db.sqlite3
-learning_log/__pycache__
-learning_logs/migrations/__pycache__
-learning_logs/__pycache__
+
+# Python:
+*.sqlite3
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
